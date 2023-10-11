@@ -13,4 +13,9 @@ pip install numpy pandas matplotlib seaborn jupyter streamlit
 ```
 streamlit run dashboard.py
 ```
+
+## Streamlit Dashboard Preview
+
 https://e-commerce-public.streamlit.app/
+
+![Alt text](img/screencapture-e-commerce-public-streamlit-app-2023-10-11-11_30_00.png "Dashboard Preview")
